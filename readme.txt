@@ -4,5 +4,7 @@ Git has a mutable index called stage
 Git tacks changes
 Creating a new branch is quick and simple
             add merge  and more
-  fix the bug
+
+  	fix the bug
+		wrote new code
   by hejie
